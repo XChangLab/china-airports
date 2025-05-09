@@ -1,1766 +1,4103 @@
-[
-    {
-        "iata": "AKU",
-        "name": "Aksu Airport",
-        "chinese_name": "阿克苏机场",
-        "latitude": 41.194,
-        "longitude": 80.286
-    },
-    {
-        "iata": "ACF",
-        "name": "Altai Airport",
-        "chinese_name": "阿勒泰机场",
-        "latitude": 47.766,
-        "longitude": 88.087
-    },
-    {
-        "iata": "AAT",
-        "name": "Altay Airport",
-        "chinese_name": "阿勒泰机场",
-        "latitude": 47.766,
-        "longitude": 88.087
-    },
-    {
-        "iata": "AXF",
-        "name": "Alxa Left Banner Airport",
-        "chinese_name": "阿拉善左旗机场",
-        "latitude": 38.845,
-        "longitude": 105.625
-    },
-    {
-        "iata": "AKA",
-        "name": "Ankang Wulipu Airport",
-        "chinese_name": "安康五里铺机场",
-        "latitude": 32.651,
-        "longitude": 109.001
-    },
-    {
-        "iata": "AQG",
-        "name": "Anqing Tianzhushan Airport",
-        "chinese_name": "安庆天柱山机场",
-        "latitude": 30.608,
-        "longitude": 117.057
-    },
-    {
-        "iata": "AOG",
-        "name": "Anshan Teng'ao Airport",
-        "chinese_name": "鞍山腾鳌机场",
-        "latitude": 41.099,
-        "longitude": 122.859
-    },
-    {
-        "iata": "HQQ",
-        "name": "Harqin Airport",
-        "chinese_name": "喀喇沁机场",
-        "latitude": 41.902,
-        "longitude": 118.798
-    },
-    {
-        "iata": "YIE",
-        "name": "Arxan Yi'ershi Airport",
-        "chinese_name": "阿尔山伊尔施机场",
-        "latitude": 47.411,
-        "longitude": 119.893
-    },
-    {
-        "iata": "DBC",
-        "name": "Baicheng Chang'an Airport",
-        "chinese_name": "白城长安机场",
-        "latitude": 45.656,
-        "longitude": 122.788
-    },
-    {
-        "iata": "AEB",
-        "name": "Baise Airport",
-        "chinese_name": "百色机场",
-        "latitude": 23.889,
-        "longitude": 106.595
-    },
-    {
-        "iata": "NBS",
-        "name": "Changbaishan Airport",
-        "chinese_name": "长白山机场",
-        "latitude": 41.483,
-        "longitude": 127.993
-    },
-    {
-        "iata": "BSD",
-        "name": "Baoshan Yunrui Airport",
-        "chinese_name": "保山云瑞机场",
-        "latitude": 25.124,
-        "longitude": 99.171
-    },
-    {
-        "iata": "BAV",
-        "name": "Baotou Donghe Airport",
-        "chinese_name": "包头东河机场",
-        "latitude": 40.557,
-        "longitude": 110.005
-    },
-    {
-        "iata": "RLK",
-        "name": "Bayannur Tianjitai Airport",
-        "chinese_name": "巴彦淖尔天吉泰机场",
-        "latitude": 40.842,
-        "longitude": 107.472
-    },
-    {
-        "iata": "BHY",
-        "name": "Beihai Fucheng Airport",
-        "chinese_name": "北海福成机场",
-        "latitude": 21.782,
-        "longitude": 109.436
-    },
-    {
-        "iata": "PEK",
-        "name": "Beijing Capital International Airport",
-        "chinese_name": "北京首都国际机场",
-        "latitude": 40.078,
-        "longitude": 116.588
-    },
-    {
-        "iata": "PKX",
-        "name": "Beijing Daxing International Airport",
-        "chinese_name": "北京大兴国际机场",
-        "latitude": 39.509,
-        "longitude": 116.412
-    },
-    {
-        "iata": "BFJ",
-        "name": "Bijie Feixiong Airport",
-        "chinese_name": "毕节飞雄机场",
-        "latitude": 27.289,
-        "longitude": 105.293
-    },
-    {
-        "iata": "BPL",
-        "name": "Bole Alashankou Airport",
-        "chinese_name": "博乐阿拉山口机场",
-        "latitude": 44.987,
-        "longitude": 82.613
-    },
-    {
-        "iata": "KJI",
-        "name": "Burqin Airport",
-        "chinese_name": "布尔津机场",
-        "latitude": 47.744,
-        "longitude": 86.819
-    },
-    {
-        "iata": "CWJ",
-        "name": "Cangyuan Washan Airport",
-        "chinese_name": "沧源佤山机场",
-        "latitude": 23.185,
-        "longitude": 99.209
-    },
-    {
-        "iata": "CGQ",
-        "name": "Changchun Longjia International Airport",
-        "chinese_name": "长春龙嘉国际机场",
-        "latitude": 43.996,
-        "longitude": 125.211
-    },
-    {
-        "iata": "CGD",
-        "name": "Changde Taohuayuan Airport",
-        "chinese_name": "常德桃花源机场",
-        "latitude": 28.933,
-        "longitude": 111.609
-    },
-    {
-        "iata": "CSX",
-        "name": "Changsha Huanghua International Airport",
-        "chinese_name": "长沙黄花国际机场",
-        "latitude": 28.192,
-        "longitude": 113.219
-    },
-    {
-        "iata": "CIH",
-        "name": "Changzhi Wangcun Airport",
-        "chinese_name": "长治王村机场",
-        "latitude": 36.217,
-        "longitude": 112.985
-    },
-     {
-        "iata": "CZX",
-        "name": "Changzhou Benniu Airport",
-        "chinese_name": "常州奔牛机场",
-        "latitude": 31.856,
-        "longitude": 119.802
-    },
-    {
-        "iata": "CHG",
-        "name": "Chaoyang Airport",
-        "chinese_name": "朝阳机场",
-        "latitude": 41.579,
-        "longitude": 120.439
-    },
-     {
-        "iata": "CDE",
-        "name": "Chengdu Shuangliu International Airport",
-        "chinese_name": "成都双流国际机场",
-        "latitude": 30.576,
-        "longitude": 103.954
-    },
-    {
-        "iata": "TFU",
-        "name": "Chengdu Tianfu International Airport",
-        "chinese_name": "成都天府国际机场",
-        "latitude": 30.389,
-        "longitude": 104.446
-    },
-    {
-        "iata": "CTU",
-        "name": "Chengdu Shuangliu International Airport",
-         "chinese_name": "成都双流国际机场",
-        "latitude": 30.576,
-        "longitude": 103.954
-    },
-    {
-        "iata": "HCZ",
-        "name": "Hechi Jinchengjiang Airport",
-        "chinese_name": "河池金城江机场",
-        "latitude": 24.764,
-        "longitude": 107.442
-    },
-    {
-        "iata": "CIF",
-        "name": "Chifeng Yulong Airport",
-        "chinese_name": "赤峰玉龙机场",
-        "latitude": 42.258,
-        "longitude": 118.809
-    },
-    {
-        "iata": "JUH",
-        "name": "Chizhou Jiuhuashan Airport",
-        "chinese_name": "池州九华山机场",
-        "latitude": 30.649,
-        "longitude": 117.603
-    },
-    {
-        "iata": "CKG",
-        "name": "Chongqing Jiangbei International Airport",
-        "chinese_name": "重庆江北国际机场",
-        "latitude": 29.779,
-        "longitude": 106.652
-    },
-    {
-        "iata": "DLU",
-        "name": "Dali Airport",
-        "chinese_name": "大理机场",
-        "latitude": 25.651,
-        "longitude": 100.315
-    },
-    {
-        "iata": "DLC",
-        "name": "Dalian Zhoushuizi International Airport",
-        "chinese_name": "大连周水子国际机场",
-        "latitude": 38.966,
-        "longitude": 121.539
-    },
-    {
-        "iata": "DDG",
-        "name": "Dandong Langtou Airport",
-        "chinese_name": "丹东浪头机场",
-        "latitude": 40.001,
-        "longitude": 124.377
-    },
-    {
-        "iata": "DCY",
-        "name": "Daocheng Yading Airport",
-        "chinese_name": "稻城亚丁机场",
-        "latitude": 29.321,
-        "longitude": 100.054
-    },
-    {
-        "iata": "DQA",
-        "name": "Daqing Sartu Airport",
-        "chinese_name": "大庆萨尔图机场",
-        "latitude": 46.648,
-        "longitude": 124.995
-    },
-    {
-        "iata": "DAT",
-        "name": "Datong Yungang Airport",
-        "chinese_name": "大同云冈机场",
-        "latitude": 39.957,
-        "longitude": 113.499
-    },
-    {
-        "iata": "DZH",
-        "name": "Dazhou Heshi Airport",
-        "chinese_name": "达州河市机场",
-        "latitude": 31.279,
-        "longitude": 107.487
-    },
-    {
-        "iata": "HXD",
-        "name": "Delingha Airport",
-        "chinese_name": "德令哈机场",
-        "latitude": 37.354,
-        "longitude": 97.395
-    },
-    {
-        "iata": "DIG",
-        "name": "Diqing Shangri-La Airport",
-        "chinese_name": "迪庆香格里拉机场",
-        "latitude": 27.809,
-        "longitude": 99.679
-    },
-    {
-        "iata": "DOY",
-        "name": "Dongying Shengli Airport",
-        "chinese_name": "东营胜利机场",
-        "latitude": 37.509,
-        "longitude": 118.573
-    },
-    {
-        "iata": "DNH",
-        "name": "Dunhuang Mogao Airport",
-        "chinese_name": "敦煌莫高机场",
-        "latitude": 40.176,
-        "longitude": 94.664
-    },
-    {
-        "iata": "ENH",
-        "name": "Enshi Xujiaping Airport",
-        "chinese_name": "恩施许家坪机场",
-        "latitude": 30.295,
-        "longitude": 109.483
-    },
-    {
-        "iata": "BZX",
-        "name": "Bazhong Enyang Airport",
-        "chinese_name": "巴中恩阳机场",
-        "latitude": 32.457,
-        "longitude": 106.703
-    },
-    {
-        "iata": "ERL",
-        "name": "Erenhot Saiwusu International Airport",
-        "chinese_name": "二连浩特赛乌苏机场",
-        "latitude": 43.631,
-        "longitude": 112.008
-    },
-    {
-        "iata": "EHU",
-        "name": "Ezhou Huahu Airport",
-        "chinese_name": "鄂州花湖机场",
-        "latitude": 30.376,
-        "longitude": 114.722
-    },
-    {
-        "iata": "FUO",
-        "name": "Foshan Shadi Airport",
-        "chinese_name": "佛山沙堤机场",
-        "latitude": 23.042,
-        "longitude": 113.107
-    },
-    {
-         "iata": "FUG",
-         "name": "Fuyang Xiguan Airport",
-         "chinese_name": "阜阳西关机场",
-         "latitude": 32.929,
-         "longitude": 115.822
-    },
-    {
-        "iata": "FYJ",
-        "name": "Fuyuan Dongji Airport",
-        "chinese_name": "抚远东极机场",
-        "latitude": 48.225,
-        "longitude": 134.357
-    },
-    {
-        "iata": "FYN",
-        "name": "Fuyun Koktokay Airport",
-        "chinese_name": "富蕴可可托海机场",
-        "latitude": 47.000,
-        "longitude": 89.518
-    },
-    {
-        "iata": "FOC",
-        "name": "Fuzhou Changle International Airport",
-        "chinese_name": "福州长乐国际机场",
-        "latitude": 25.945,
-        "longitude": 119.660
-    },
-    {
-        "iata": "KOW",
-        "name": "Ganzhou Huangjin Airport",
-        "chinese_name": "赣州黄金机场",
-        "latitude": 25.796,
-        "longitude": 114.909
-    },
-    {
-        "iata": "GZG",
-        "name": "Ganzhou Huangjin Airport",
-        "chinese_name": "赣州黄金机场",
-        "latitude": 25.796,
-        "longitude": 114.909
-    },
-    {
-         "iata": "GOQ",
-         "name": "Golmud Airport",
-         "chinese_name": "格尔木机场",
-         "latitude": 36.405,
-         "longitude": 94.822
-    },
-    {
-        "iata": "GMQ",
-        "name": "Golog Maqin Airport",
-        "chinese_name": "果洛玛沁机场",
-        "latitude": 34.429,
-        "longitude": 100.246
-    },
-   {
-        "iata": "GYS",
-        "name": "Guangyuan Panlong Airport",
-        "chinese_name": "广元盘龙机场",
-        "latitude": 32.456,
-        "longitude": 105.802
-    },
-    {
-        "iata": "CAN",
-        "name": "Guangzhou Baiyun International Airport",
-        "chinese_name": "广州白云国际机场",
-        "latitude": 23.392,
-        "longitude": 113.299
-    },
-    {
-        "iata": "KWL",
-        "name": "Guilin Liangjiang International Airport",
-        "chinese_name": "桂林两江国际机场",
-        "latitude": 25.215,
-        "longitude": 110.035
-    },
-    {
-        "iata": "KWE",
-        "name": "Guiyang Longdongbao International Airport",
-        "chinese_name": "贵阳龙洞堡国际机场",
-        "latitude": 26.550,
-        "longitude": 106.792
-    },
-    {
-        "iata": "GYU",
-        "name": "Guyuan Liupanshan Airport",
-        "chinese_name": "固原六盘山机场",
-        "latitude": 36.042,
-        "longitude": 106.226
-    },
-    {
-        "iata": "HAK",
-        "name": "Haikou Meilan International Airport",
-        "chinese_name": "海口美兰国际机场",
-        "latitude": 19.938,
-        "longitude": 110.451
-    },
-    {
-        "iata": "HLD",
-        "name": "Hailar Dongshan Airport",
-        "chinese_name": "海拉尔东山机场",
-        "latitude": 49.203,
-        "longitude": 119.776
-    },
-    {
-        "iata": "HMI",
-        "name": "Hami Airport",
-        "chinese_name": "哈密机场",
-        "latitude": 42.870,
-        "longitude": 93.561
-    },
-    {
-        "iata": "HDG",
-        "name": "Handan Airport",
-        "chinese_name": "邯郸机场",
-        "latitude": 36.504,
-        "longitude": 114.428
-    },
-    {
-        "iata": "HGH",
-        "name": "Hangzhou Xiaoshan International Airport",
-        "chinese_name": "杭州萧山国际机场",
-        "latitude": 30.239,
-        "longitude": 120.433
-    },
-    {
-        "iata": "HZG",
-        "name": "Hanzhong Chenggu Airport",
-        "chinese_name": "汉中城固机场",
-        "latitude": 33.126,
-        "longitude": 107.292
-    },
-    {
-        "iata": "HRB",
-        "name": "Harbin Taiping International Airport",
-        "chinese_name": "哈尔滨太平国际机场",
-        "latitude": 45.624,
-        "longitude": 126.253
-    },
-   {
-        "iata": "HCJ",
-        "name": "Hechi Jinchengjiang Airport",
-        "chinese_name": "河池金城江机场",
-        "latitude": 24.764,
-        "longitude": 107.442
-    },
-    {
-        "iata": "HFE",
-        "name": "Hefei Xinqiao International Airport",
-        "chinese_name": "合肥新桥国际机场",
-        "latitude": 31.947,
-        "longitude": 117.051
-    },
-    {
-        "iata": "HEK",
-        "name": "Heihe Airport",
-        "chinese_name": "黑河机场",
-        "latitude": 50.225,
-        "longitude": 127.478
-    },
-    {
-        "iata": "HNY",
-        "name": "Hengyang Nanyue Airport",
-        "chinese_name": "衡阳南岳机场",
-        "latitude": 26.907,
-        "longitude": 112.417
-    },
-    {
-        "iata": "HZA",
-        "name": "Huai'an Lianshui Airport",
-        "chinese_name": "淮安涟水机场",
-        "latitude": 33.607,
-        "longitude": 119.135
-    },
-    {
-        "iata": "HET",
-        "name": "Hohhot Baita International Airport",
-        "chinese_name": "呼和浩特白塔国际机场",
-        "latitude": 40.831,
-        "longitude": 111.651
-    },
-    {
-        "iata": "HUO",
-        "name": "Hulunbuir Hailar Airport",
-        "chinese_name": "呼伦贝尔海拉尔机场",
-         "latitude": 49.203,
-        "longitude": 119.776
-    },
-    {
-        "iata": "AHJ",
-        "name": "Hongyuan Airport",
-        "chinese_name": "红原机场",
-        "latitude": 32.548,
-        "longitude": 102.355
-    },
-    {
-        "iata": "HTN",
-        "name": "Hotan Airport",
-        "chinese_name": "和田机场",
-        "latitude": 37.037,
-        "longitude": 79.866
-    },
-    {
-        "iata": "HIA",
-        "name": "Huaihua Zhijiang Airport",
-        "chinese_name": "怀化芷江机场",
-        "latitude": 27.469,
-        "longitude": 109.703
-    },
-   {
-        "iata": "HJJ",
-        "name": "Zhijiang Airport",
-         "chinese_name": "芷江机场",
-        "latitude": 27.469,
-        "longitude": 109.703
-    },
-    {
-        "iata": "TXN",
-        "name": "Tunxi International Airport",
-        "chinese_name": "屯溪国际机场",
-        "latitude": 29.730,
-        "longitude": 118.266
-    },
-    {
-        "iata": "HUZ",
-        "name": "Huizhou Pingtan Airport",
-        "chinese_name": "惠州平潭机场",
-        "latitude": 23.076,
-        "longitude": 114.438
-    },
-    {
-        "iata": "JGS",
-        "name": "Jinggangshan Airport",
-        "chinese_name": "井冈山机场",
-        "latitude": 26.789,
-        "longitude": 114.969
-    },
-    {
-        "iata": "JGD",
-        "name": "Jiagedaqi Airport",
-        "chinese_name": "加格达奇机场",
-        "latitude": 50.419,
-        "longitude": 124.114
-    },
-    {
-        "iata": "JMU",
-        "name": "Jiamusi Dongjiao Airport",
-        "chinese_name": "佳木斯东郊机场",
-        "latitude": 46.839,
-        "longitude": 130.465
-    },
-    {
-        "iata": "JSJ",
-        "name": "Jiansanjiang Airport",
-        "chinese_name": "建三江机场",
-        "latitude": 47.117,
-        "longitude": 132.633
-    },
-    {
-        "iata": "JGN",
-        "name": "Jiayuguan Airport",
-        "chinese_name": "嘉峪关机场",
-        "latitude": 39.830,
-        "longitude": 98.279
-    },
-    {
-        "iata": "TNA",
-        "name": "Jinan Yaoqiang International Airport",
-        "chinese_name": "济南遥墙国际机场",
-        "latitude": 36.846,
-        "longitude": 117.217
-    },
-    {
-        "iata": "JIC",
-        "name": "Jinchang Jinchuan Airport",
-        "chinese_name": "金昌金川机场",
-        "latitude": 38.496,
-        "longitude": 102.194
-    },
-    {
-        "iata": "JDZ",
-        "name": "Jingdezhen Luojia Airport",
-        "chinese_name": "景德镇罗家机场",
-        "latitude": 29.315,
-        "longitude": 117.205
-    },
-    {
-        "iata": "JHG",
-        "name": "Jinghong Xishuangbanna Airport",
-        "chinese_name": "景洪西双版纳机场",
-        "latitude": 21.972,
-        "longitude": 100.766
-    },
-    {
-        "iata": "SHS",
-        "name": "Jiashan Airport",
-        "chinese_name": "嘉善机场",
-         "latitude": 30.858,
-        "longitude": 120.932
-    },
-    {
-        "iata": "JNG",
-        "name": "Jining Qufu Airport",
-        "chinese_name": "济宁曲阜机场",
-        "latitude": 35.373,
-        "longitude": 116.691
-    },
-    {
-        "iata": "JNZ",
-        "name": "Jinzhou Bay Airport",
-        "chinese_name": "锦州湾机场",
-        "latitude": 41.092,
-        "longitude": 121.045
-    },
-    {
-         "iata": "JIU",
-        "name": "Jiujiang Lushan Airport",
-        "chinese_name": "九江庐山机场",
-        "latitude": 29.538,
-        "longitude": 115.729
-    },
-    {
-        "iata": "JZH",
-        "name": "Jiuzhaigou Huanglong Airport",
-        "chinese_name": "九寨黄龙机场",
-        "latitude": 32.840,
-        "longitude": 103.691
-    },
-    {
-        "iata": "JXA",
-        "name": "Jixi Xingkaihu Airport",
-        "chinese_name": "鸡西兴凯湖机场",
-        "latitude": 45.297,
-        "longitude": 131.054
-    },
-    {
-        "iata": "KGT",
-        "name": "Kangding Airport",
-        "chinese_name": "康定机场",
-        "latitude": 30.038,
-        "longitude": 101.722
-    },
-    {
-        "iata": "KRY",
-        "name": "Karamay Airport",
-        "chinese_name": "克拉玛依机场",
-        "latitude": 45.583,
-        "longitude": 84.871
-    },
-    {
-        "iata": "KHG",
-        "name": "Kashgar Airport",
-        "chinese_name": "喀什机场",
-        "latitude": 39.541,
-        "longitude": 76.022
-    },
-    {
-        "iata": "KRL",
-        "name": "Korla Airport",
-        "chinese_name": "库尔勒机场",
-        "latitude": 41.692,
-        "longitude": 86.058
-    },
-    {
-        "iata": "KMG",
-        "name": "Kunming Changshui International Airport",
-        "chinese_name": "昆明长水国际机场",
-        "latitude": 25.091,
-        "longitude": 102.943
-    },
-    {
-        "iata": "KCA",
-        "name": "Kuqa Qiuci Airport",
-        "chinese_name": "库车龟兹机场",
-        "latitude": 41.719,
-        "longitude": 83.419
-    },
-    {
-        "iata": "JMJ",
-        "name": "Lancang Jingmai Airport",
-        "chinese_name": "澜沧景迈机场",
-        "latitude": 22.516,
-        "longitude": 99.900
-    },
-    {
-        "iata": "LZG",
-        "name": "Lanzhou Zhongchuan International Airport",
-        "chinese_name": "兰州中川国际机场",
-        "latitude": 36.521,
-        "longitude": 103.676
-    },
-    {
-        "iata": "LHW",
-        "name": "Lanzhou Zhongchuan International Airport",
-        "chinese_name": "兰州中川国际机场",
-        "latitude": 36.521,
-        "longitude": 103.676
-    },
-    {
-        "iata": "LXA",
-        "name": "Lhasa Gonggar Airport",
-        "chinese_name": "拉萨贡嘎机场",
-        "latitude": 29.292,
-        "longitude": 90.912
-    },
-    {
-        "iata": "LYG",
-        "name": "Lianyungang Baitabu Airport",
-        "chinese_name": "连云港白塔埠机场",
-        "latitude": 34.528,
-        "longitude": 119.136
-    },
-     {
-        "iata": "LLB",
-        "name": "Libo Airport",
-        "chinese_name": "荔波机场",
-        "latitude": 25.294,
-        "longitude": 107.902
-    },
-    {
-        "iata": "LJG",
-        "name": "Lijiang Sanyi International Airport",
-        "chinese_name": "丽江三义国际机场",
-        "latitude": 27.385,
-        "longitude": 100.244
-    },
-    {
-        "iata": "LNJ",
-        "name": "Lincang Airport",
-        "chinese_name": "临沧机场",
-        "latitude": 23.821,
-        "longitude": 100.016
-    },
-    {
-        "iata": "LFQ",
-        "name": "Linfen Qiaoli Airport",
-        "chinese_name": "临汾乔李机场",
-        "latitude": 36.084,
-        "longitude": 111.645
-    },
-    {
-        "iata": "LYI",
-        "name": "Linyi Shubuling Airport",
-        "chinese_name": "临沂沭埠岭机场",
-        "latitude": 35.051,
-        "longitude": 118.363
-    },
-    {
-         "iata": "LPF",
-        "name": "Liupanshui Yuezhao Airport",
-        "chinese_name": "六盘水月照机场",
-        "latitude": 26.536,
-        "longitude": 104.791
-    },
-     {
-        "iata": "LZH",
-        "name": "Liuzhou Bailian Airport",
-        "chinese_name": "柳州白莲机场",
-        "latitude": 24.200,
-        "longitude": 109.394
-    },
-    {
-        "iata": "LNL",
-        "name": "Longnan Chengzhou Airport",
-        "chinese_name": "陇南成州机场",
-        "latitude": 33.450,
-        "longitude": 105.176
-    },
-    {
-        "iata": "LCX",
-        "name": "Longyan Guanzhishan Airport",
-        "chinese_name": "龙岩冠豸山机场",
-        "latitude": 25.191,
-        "longitude": 117.090
-    },
-    {
-        "iata": "LLV",
-        "name": "Lüliang Airport",
-        "chinese_name": "吕梁机场",
-        "latitude": 37.545,
-        "longitude": 111.149
-    },
-    {
-        "iata": "LYA",
-        "name": "Luoyang Beijiao Airport",
-        "chinese_name": "洛阳北郊机场",
-        "latitude": 34.726,
-        "longitude": 112.390
-    },
-    {
-        "iata": "LZO",
-        "name": "Luzhou Yunlong Airport",
-        "chinese_name": "泸州云龙机场",
-        "latitude": 28.950,
-        "longitude": 105.393
-    },
-    {
-        "iata": "LUM",
-        "name": "Mangshi Airport",
-        "chinese_name": "芒市机场",
-        "latitude": 24.391,
-        "longitude": 98.541
-    },
-    {
-        "iata": "HTT",
-        "name": "Huatugou Airport",
-        "chinese_name": "花土沟机场",
-        "latitude": 38.370,
-        "longitude": 90.905
-    },
-    {
-        "iata": "NZH",
-        "name": "Manzhouli Xijiao Airport",
-        "chinese_name": "满洲里西郊机场",
-        "latitude": 49.578,
-        "longitude": 117.354
-    },
-    {
-        "iata": "MXZ",
-        "name": "Meixian Airport",
-        "chinese_name": "梅县机场",
-        "latitude": 24.308,
-        "longitude": 116.122
-    },
-    {
-        "iata": "MIG",
-        "name": "Mianyang Nanjiao Airport",
-        "chinese_name": "绵阳南郊机场",
-        "latitude": 31.465,
-        "longitude": 104.735
-    },
-    {
-        "iata": "OHE",
-        "name": "Mohe Gulian Airport",
-        "chinese_name": "漠河古莲机场",
-        "latitude": 53.012,
-        "longitude": 122.434
-    },
-    {
-        "iata": "MDG",
-        "name": "Mudanjiang Hailang Airport",
-        "chinese_name": "牡丹江海浪机场",
-        "latitude": 44.528,
-        "longitude": 129.557
-    },
-    {
-        "iata": "KHN",
-        "name": "Nanchang Changbei International Airport",
-        "chinese_name": "南昌昌北国际机场",
-        "latitude": 28.644,
-        "longitude": 115.917
-    },
-    {
-        "iata": "NAO",
-        "name": "Nanchong Gaoping Airport",
-        "chinese_name": "南充高坪机场",
-        "latitude": 30.849,
-        "longitude": 106.118
-    },
-    {
-        "iata": "NKG",
-        "name": "Nanjing Lukou International Airport",
-        "chinese_name": "南京禄口国际机场",
-        "latitude": 31.742,
-        "longitude": 118.862
-    },
-    {
-        "iata": "NNG",
-        "name": "Nanning Wuxu International Airport",
-        "chinese_name": "南宁吴圩国际机场",
-        "latitude": 22.617,
-        "longitude": 108.170
-    },
-    {
-        "iata": "NTG",
-        "name": "Nantong Xingdong Airport",
-        "chinese_name": "南通兴东机场",
-        "latitude": 32.105,
-        "longitude": 120.997
-    },
-    {
-        "iata": "NNY",
-        "name": "Nanyang Jiangying Airport",
-        "chinese_name": "南阳姜营机场",
-        "latitude": 33.005,
-        "longitude": 112.516
-    },
-    {
-        "iata": "NGB",
-        "name": "Ningbo Lishe International Airport",
-        "chinese_name": "宁波栎社国际机场",
-        "latitude": 29.825,
-        "longitude": 121.469
-    },
-    {
-        "iata": "NLH",
-        "name": "Ninglang Luguhu Airport",
-        "chinese_name": "宁蒗泸沽湖机场",
-        "latitude": 27.656,
-        "longitude": 100.730
-    },
-    {
-        "iata": "LZY",
-        "name": "Nyingchi Mainling Airport",
-        "chinese_name": "林芝米林机场",
-        "latitude": 29.514,
-        "longitude": 94.332
-    },
-    {
-        "iata": "DSN",
-        "name": "Ordos Ejin Horo Airport",
-        "chinese_name": "鄂尔多斯伊金霍洛机场",
-        "latitude": 39.493,
-        "longitude": 109.783
-    },
-    {
-        "iata": "PZI",
-        "name": "Pan Zhi Hua Bao An Ying Airport",
-        "chinese_name": "攀枝花保安营机场",
-        "latitude": 26.691,
-        "longitude": 101.725
-    },
-    {
-        "iata": "BPX",
-        "name": "Bangda Airport",
-         "chinese_name": "邦达机场",
-        "latitude": 30.091,
-        "longitude": 97.090
-    },
-    {
-        "iata": "JIQ",
-        "name": "Qianjiang Wulingshan Airport",
-        "chinese_name": "黔江武陵山机场",
-        "latitude": 29.493,
-        "longitude": 108.834
-    },
-    {
-        "iata": "IQM",
-        "name": "Qiemo Yudu Airport",
-        "chinese_name": "且末玉都机场",
-        "latitude": 38.138,
-        "longitude": 85.518
-    },
-    {
-        "iata": "HBQ",
-        "name": "Qingyang Xifeng Airport",
-        "chinese_name": "庆阳西峰机场",
-        "latitude": 35.741,
-        "longitude": 107.597
-    },
-    {
-        "iata": "TAO",
-        "name": "Qingdao Jiaodong International Airport",
-        "chinese_name": "青岛胶东国际机场",
-        "latitude": 36.242,
-        "longitude": 120.011
-    },
-    {
-        "iata": "IQN",
-         "name": "Qingyang Xifeng Airport",
-        "chinese_name": "庆阳西峰机场",
-        "latitude": 35.741,
-        "longitude": 107.597
-    },
-    {
-        "iata": "BPE",
-        "name": "Qinhuangdao Beidaihe Airport",
-        "chinese_name": "秦皇岛北戴河机场",
-        "latitude": 39.766,
-        "longitude": 119.372
-    },
-    {
-        "iata": "BAR",
-        "name": "Qamdo Bamda Airport",
-        "chinese_name": "昌都邦达机场",
-        "latitude": 30.553,
-        "longitude": 97.108
-    },
-    {
-        "iata": "NDG",
-        "name": "Qiqihar Sanjiazi Airport",
-        "chinese_name": "齐齐哈尔三家子机场",
-        "latitude": 47.235,
-        "longitude": 123.913
-    },
-    {
-        "iata": "JBK",
-        "name": "Quzhou Airport",
-        "chinese_name": "衢州机场",
-        "latitude": 28.958,
-        "longitude": 118.886
-    },
-    {
-        "iata": "JJN",
-        "name": "Quanzhou Jinjiang International Airport",
-        "chinese_name": "泉州晋江国际机场",
-        "latitude": 24.808,
-        "longitude": 118.595
-    },
-    {
-        "iata": "JUZ",
-        "name": "Quzhou Airport",
-        "chinese_name": "衢州机场",
-        "latitude": 28.958,
-        "longitude": 118.886
-    },
-    {
-        "iata": "RIZ",
-        "name": "Rizhao Shanzihe Airport",
-        "chinese_name": "日照山字河机场",
-        "latitude": 35.459,
-        "longitude": 119.358
-    },
-    {
-        "iata": "RQA",
-        "name": "Ruoqiang Loulan Airport",
-        "chinese_name": "若羌楼兰机场",
-        "latitude": 39.025,
-        "longitude": 88.173
-    },
-    {
-        "iata": "SQJ",
-        "name": "Shangrao Sanqingshan Airport",
-        "chinese_name": "上饶三清山机场",
-        "latitude": 28.413,
-        "longitude": 117.892
-    },
-    {
-        "iata": "SYX",
-        "name": "Sanya Phoenix International Airport",
-        "chinese_name": "三亚凤凰国际机场",
-        "latitude": 18.301,
-        "longitude": 109.412
-    },
-    {
-        "iata": "SHA",
-        "name": "Shanghai Hongqiao International Airport",
-        "chinese_name": "上海虹桥国际机场",
-        "latitude": 31.198,
-        "longitude": 121.337
-    },
-    {
-        "iata": "PVG",
-        "name": "Shanghai Pudong International Airport",
-        "chinese_name": "上海浦东国际机场",
-        "latitude": 31.143,
-        "longitude": 121.807
-    },
-    {
-        "iata": "SQD",
-        "name": "Shangri-La Airport",
-        "chinese_name": "香格里拉机场",
-        "latitude": 27.809,
-        "longitude": 99.679
-    },
-    {
-        "iata": "LGZ",
-        "name": "Shangzhi Airport",
-        "chinese_name": "尚志机场",
-        "latitude": 45.213,
-        "longitude": 127.969
-    },
-    {
-        "iata": "SWA",
-        "name": "Shantou Waisha Airport",
-        "chinese_name": "汕头外砂机场",
-        "latitude": 23.403,
-        "longitude": 116.740
-    },
-    {
-        "iata": "HSC",
-        "name": "Shaoguan Guitou Airport",
-        "chinese_name": "韶关桂头机场",
-        "latitude": 24.826,
-        "longitude": 113.544
-    },
-    {
-        "iata": "WGN",
-        "name": "Shaoyang Wugang Airport",
-         "chinese_name": "邵阳武冈机场",
-        "latitude": 26.724,
-        "longitude": 110.742
-    },
-    {
-        "iata": "SHE",
-        "name": "Shenyang Taoxian International Airport",
-        "chinese_name": "沈阳桃仙国际机场",
-        "latitude": 41.632,
-        "longitude": 123.490
-    },
-    {
-        "iata": "SZX",
-        "name": "Shenzhen Bao'an International Airport",
-        "chinese_name": "深圳宝安国际机场",
-        "latitude": 22.639,
-        "longitude": 113.810
-    },
-    {
-        "iata": "RKZ",
-        "name": "Shigatse Peace Airport",
-        "chinese_name": "日喀则和平机场",
-        "latitude": 29.363,
-        "longitude": 89.306
-    },
-    {
-        "iata": "DDR",
-        "name": "Shishugou Airport",
-        "chinese_name": "石树沟机场",
-        "latitude": 43.401,
-        "longitude": 91.012
-    },
-     {
-        "iata": "SHF",
-        "name": "Shijiazhuang Zhengding International Airport",
-        "chinese_name": "石家庄正定国际机场",
-        "latitude": 38.276,
-        "longitude": 114.423
-    },
-    {
-        "iata": "SJW",
-        "name": "Shijiazhuang Zhengding International Airport",
-        "chinese_name": "石家庄正定国际机场",
-        "latitude": 38.276,
-        "longitude": 114.423
-    },
-    {
-        "iata": "NGQ",
-        "name": "Ngari Gunsa Airport",
-        "chinese_name": "阿里昆莎机场",
-        "latitude": 32.108,
-        "longitude": 80.057
-    },
-    {
-        "iata": "WDS",
-        "name": "Shilinzhen Airport",
-        "chinese_name": "石林镇机场",
-        "latitude": 24.820,
-        "longitude": 103.316
-    },
-    {
-        "iata": "SZH",
-        "name": "Suzhou Guangfu Airport",
-        "chinese_name": "苏州光福机场",
-        "latitude": 31.223,
-        "longitude": 120.333
-    },
-    {
-        "iata": "SYM",
-        "name": "Simao Airport",
-        "chinese_name": "思茅机场",
-        "latitude": 22.783,
-        "longitude": 100.978
-    },
-    {
-        "iata": "YSQ",
-        "name": "Songyuan Chaganhu Airport",
-        "chinese_name": "松原查干湖机场",
-        "latitude": 45.113,
-        "longitude": 124.613
-    },
-    {
-        "iata": "TYN",
-        "name": "Taiyuan Wusu International Airport",
-        "chinese_name": "太原武宿国际机场",
-        "latitude": 37.769,
-        "longitude": 112.626
-    },
-    {
-        "iata": "HYN",
-        "name": "Taizhou Luqiao Airport",
-        "chinese_name": "台州路桥机场",
-        "latitude": 28.607,
-        "longitude": 121.423
-    },
-    {
-        "iata": "TVS",
-        "name": "Tangshan Sannühe Airport",
-        "chinese_name": "唐山三女河机场",
-        "latitude": 39.667,
-         "longitude": 118.000
-    },
-   {
-        "iata": "HQL",
-        "name": "Tarim Airport",
-        "chinese_name": "塔里木机场",
-        "latitude": 40.248,
-        "longitude": 81.288
-    },
-    {
-        "iata": "TCZ",
-        "name": "Tengchong Tuofeng Airport",
-        "chinese_name": "腾冲驼峰机场",
-        "latitude": 25.016,
-        "longitude": 98.484
-    },
-    {
-        "iata": "TSN",
-        "name": "Tianjin Binhai International Airport",
-        "chinese_name": "天津滨海国际机场",
-        "latitude": 39.127,
-        "longitude": 117.348
-    },
-    {
-        "iata": "THQ",
-        "name": "Tianshui Maijishan Airport",
-        "chinese_name": "天水麦积山机场",
-        "latitude": 34.544,
-        "longitude": 105.882
-    },
-    {
-        "iata": "TNH",
-        "name": "Tonghua Sanyuanpu Airport",
-        "chinese_name": "通化三源浦机场",
-        "latitude": 41.739,
-        "longitude": 125.780
-    },
-    {
-        "iata": "TGO",
-        "name": "Tongliao Airport",
-        "chinese_name": "通辽机场",
-        "latitude": 43.574,
-        "longitude": 122.265
-    },
-    {
-        "iata": "TEN",
-        "name": "Tongren Fenghuang Airport",
-        "chinese_name": "铜仁凤凰机场",
-        "latitude": 27.914,
-        "longitude": 109.319
-    },
-    {
-        "iata": "TCG",
-        "name": "Tacheng Airport",
-        "chinese_name": "塔城机场",
-        "latitude": 46.744,
-        "longitude": 82.996
-    },
-    {
-        "iata": "TWC",
-        "name": "Tawu Airport",
-        "chinese_name": "道孚机场",
-        "latitude": 30.973,
-        "longitude": 101.003
-    },
-    {
-        "iata": "TLQ",
-        "name": "Turpan Jiaohe Airport",
-        "chinese_name": "吐鲁番交河机场",
-        "latitude": 42.957,
-        "longitude": 89.176
-    },
-    {
-        "iata": "HLH",
-        "name": "Ulanhot Airport",
-        "chinese_name": "乌兰浩特机场",
-        "latitude": 46.089,
-        "longitude": 122.060
-    },
-    {
-        "iata": "UCB",
-        "name": "Ulanqab Jining Airport",
-        "chinese_name": "乌兰察布集宁机场",
-        "latitude": 41.805,
-        "longitude": 113.077
-    },
-    {
-        "iata": "URC",
-        "name": "Ürümqi Diwopu International Airport",
-        "chinese_name": "乌鲁木齐地窝堡国际机场",
-        "latitude": 43.907,
-        "longitude": 87.474
-    },
-    {
-        "iata": "WXN",
-        "name": "Wanxian Airport",
-        "chinese_name": "万州机场",
-        "latitude": 30.794,
-        "longitude": 108.409
-    },
-    {
-        "iata": "WEF",
-        "name": "Weifang Airport",
-        "chinese_name": "潍坊机场",
-        "latitude": 36.724,
-        "longitude": 119.115
-    },
-    {
-        "iata": "WEH",
-        "name": "Weihai Dashuibo Airport",
-        "chinese_name": "威海大水泊机场",
-        "latitude": 37.231,
-        "longitude": 122.229
-    },
-    {
-        "iata": "WNH",
-        "name": "Wenshan Puzhehei Airport",
-        "chinese_name": "文山普者黑机场",
-        "latitude": 23.503,
-        "longitude": 104.095
-    },
-    {
-        "iata": "WNZ",
-        "name": "Wenzhou Longwan International Airport",
-        "chinese_name": "温州龙湾国际机场",
-        "latitude": 27.912,
-        "longitude": 120.846
-    },
-    {
-        "iata": "DTU",
-        "name": "Wudalianchi Dedu Airport",
-        "chinese_name": "五大连池德都机场",
-        "latitude": 48.542,
-        "longitude": 126.524
-    },
-    {
-        "iata": "WUA",
-        "name": "Wuhai Airport",
-        "chinese_name": "乌海机场",
-        "latitude": 39.676,
-        "longitude": 106.787
-    },
-    {
-        "iata": "WUH",
-        "name": "Wuhan Tianhe International Airport",
-        "chinese_name": "武汉天河国际机场",
-        "latitude": 30.788,
-        "longitude": 114.209
-    },
-    {
-        "iata": "WHA",
-        "name": "Wuhan Hannan Airport",
-        "chinese_name": "武汉汉南机场",
-        "latitude": 30.475,
-        "longitude": 114.156
-    },
-    {
-        "iata": "CQW",
-        "name": "Chongqing Wushan Airport",
-        "chinese_name": "重庆巫山机场",
-        "latitude": 31.059,
-        "longitude": 109.891
-    },
-    {
-        "iata": "WSK",
-        "name": "Wusongkou Airport",
-        "chinese_name": "吴淞口机场",
-         "latitude": 31.386,
-        "longitude": 121.500
-    },
-    {
-        "iata": "WUX",
-        "name": "Wuxi Sunan Shuofang International Airport",
-        "chinese_name": "无锡苏南硕放国际机场",
-        "latitude": 31.492,
-        "longitude": 120.412
-    },
-    {
-        "iata": "WUS",
-        "name": "Wuyishan Airport",
-        "chinese_name": "武夷山机场",
-        "latitude": 27.709,
-        "longitude": 118.009
-    },
-    {
-        "iata": "WUZ",
-        "name": "Wuzhou Xijiang Airport",
-        "chinese_name": "梧州西江机场",
-        "latitude": 23.507,
-        "longitude": 111.248
-    },
-    {
-        "iata": "XIY",
-        "name": "Xi'an Xianyang International Airport",
-        "chinese_name": "西安咸阳国际机场",
-        "latitude": 34.447,
-        "longitude": 108.750
-    },
-    {
-        "iata": "GXH",
-        "name": "Xiahe Gannan Airport",
-        "chinese_name": "夏河甘南机场",
-        "latitude": 35.019,
-        "longitude": 102.878
-    },
-    {
-        "iata": "XMN",
-        "name": "Xiamen Gaoqi International Airport",
-        "chinese_name": "厦门高崎国际机场",
-        "latitude": 24.544,
-        "longitude": 118.124
-    },
-    {
-        "iata": "DXJ",
-        "name": "Daxing Airport",
-        "chinese_name": "大兴机场",
-        "latitude": 39.509,
-        "longitude": 116.412
-    },
-    {
-        "iata": "XFN",
-        "name": "Xiangfan Liuji Airport",
-        "chinese_name": "襄阳刘集机场",
-        "latitude": 32.151,
-        "longitude": 112.280
-    },
-    {
-        "iata": "XIC",
-        "name": "Xichang Qingshan Airport",
-        "chinese_name": "西昌青山机场",
-        "latitude": 27.910,
-        "longitude": 102.258
-    },
-    {
-        "iata": "XIL",
-        "name": "Xilinhot Airport",
-        "chinese_name": "锡林浩特机场",
-        "latitude": 43.943,
-        "longitude": 116.078
-    },
-    {
-        "iata": "XNT",
-        "name": "Xinyuan Nalati Airport",
-        "chinese_name": "新源那拉提机场",
-        "latitude": 43.261,
-        "longitude": 83.360
-    },
-    {
-        "iata": "ACX",
-        "name": "Xingyi Wanfenglin Airport",
-        "chinese_name": "兴义万峰林机场",
-        "latitude": 24.193,
-        "longitude": 104.955
-    },
-    {
-        "iata": "XNN",
-        "name": "Xining Caojiabao International Airport",
-        "chinese_name": "西宁曹家堡国际机场",
-        "latitude": 36.523,
-        "longitude": 102.025
-    },
-    {
-        "iata": "XAI",
-        "name": "Xinyang Minggang Airport",
-        "chinese_name": "信阳明港机场",
-        "latitude": 32.317,
-        "longitude": 114.085
-    },
-    {
-        "iata": "NLT",
-        "name": "Xinyuan Nalati Airport",
-        "chinese_name": "新源那拉提机场",
-         "latitude": 43.261,
-        "longitude": 83.360
-    },
-    {
-        "iata": "WUT",
-        "name": "Wutai Shan Airport",
-        "chinese_name": "五台山机场",
-        "latitude": 38.807,
-        "longitude": 113.589
-    },
-    {
-        "iata": "XUZ",
-        "name": "Xuzhou Guanyin Airport",
-        "chinese_name": "徐州观音机场",
-        "latitude": 34.358,
-        "longitude": 117.972
-    },
-    {
-        "iata": "ENY",
-        "name": "Yan'an Ershilipu Airport",
-        "chinese_name": "延安二十里铺机场",
-        "latitude": 36.608,
-        "longitude": 109.503
-    },
-    {
-        "iata": "YNZ",
-        "name": "Yancheng Nanyang Airport",
-        "chinese_name": "盐城南洋机场",
-        "latitude": 33.400,
-        "longitude": 120.204
-    },
-    {
-        "iata": "YTY",
-        "name": "Yantai Penglai International Airport",
-        "chinese_name": "烟台蓬莱国际机场",
-        "latitude": 37.663,
-        "longitude": 120.984
-    },
-    {
-        "iata": "YNJ",
-        "name": "Yanji Chaoyangchuan Airport",
-        "chinese_name": "延吉朝阳川机场",
-        "latitude": 42.877,
-        "longitude": 129.450
-    },
-    {
-        "iata": "YNT",
-         "name": "Yantai Penglai International Airport",
-        "chinese_name": "烟台蓬莱国际机场",
-        "latitude": 37.663,
-        "longitude": 120.984
-    },
-     {
-        "iata": "QSZ",
-        "name": "Qianshan Airport",
-        "chinese_name": "迁善机场",
-        "latitude": 33.750,
-        "longitude": 114.500
-    },
-    {
-        "iata": "YBP",
-        "name": "Yibin Wuliangye Airport",
-        "chinese_name": "宜宾五粮液机场",
-        "latitude": 28.488,
-        "longitude": 104.552
-    },
-     {
-        "iata": "YIH",
-        "name": "Yichang Sanxia Airport",
-        "chinese_name": "宜昌三峡机场",
-        "latitude": 30.958,
-        "longitude": 111.470
-    },
-    {
-        "iata": "LDS",
-        "name": "Yichun Mingyueshan Airport",
-        "chinese_name": "宜春明月山机场",
-        "latitude": 27.878,
-        "longitude": 114.379
-    },
-    {
-        "iata": "YIC",
-        "name": "Yinchuan Hedong International Airport",
-        "chinese_name": "银川河东国际机场",
-        "latitude": 38.317,
-        "longitude": 106.382
-    },
-    {
-        "iata": "INC",
-        "name": "Yinchuan Hedong International Airport",
-        "chinese_name": "银川河东国际机场",
-        "latitude": 38.317,
-        "longitude": 106.382
-    },
-    {
-        "iata": "YKH",
-        "name": "Yingkou Lanqi Airport",
-        "chinese_name": "营口兰旗机场",
-        "latitude": 40.685,
-        "longitude": 122.287
-    },
-    {
-        "iata": "YIN",
-        "name": "Yining Airport",
-        "chinese_name": "伊宁机场",
-        "latitude": 43.968,
-        "longitude": 81.325
-    },
-    {
-        "iata": "YIW",
-        "name": "Yiwu Airport",
-        "chinese_name": "义乌机场",
-        "latitude": 29.335,
-        "longitude": 120.042
-    },
-    {
-        "iata": "LLF",
-        "name": "Yongzhou Lingling Airport",
-        "chinese_name": "永州零陵机场",
-        "latitude": 26.305,
-        "longitude": 111.625
-    },
-    {
-        "iata": "YYA",
-        "name": "Yulin Yuyang Airport",
-        "chinese_name": "榆林榆阳机场",
-        "latitude": 38.325,
-        "longitude": 109.716
-    },
-    {
-        "iata": "YLX",
-        "name": "Yulin Yuyang Airport",
-        "chinese_name": "榆林榆阳机场",
-        "latitude": 38.325,
-        "longitude": 109.716
-    },
-    {
-        "iata": "UYN",
-        "name": "Yulin Yuyang Airport",
-        "chinese_name": "榆林榆阳机场",
-        "latitude": 38.325,
-         "longitude": 109.716
-    },
-    {
-        "iata": "YCU",
-        "name": "Yuncheng Guangong Airport",
-        "chinese_name": "运城关公机场",
-        "latitude": 35.069,
-        "longitude": 111.004
-    },
-    {
-        "iata": "YUS",
-        "name": "Yushu Batang Airport",
-        "chinese_name": "玉树巴塘机场",
-        "latitude": 32.836,
-        "longitude": 97.024
-    },
-    {
-        "iata": "YTW",
-        "name": "Yangquan Airport",
-        "chinese_name": "阳泉机场",
-        "latitude": 37.850,
-        "longitude": 113.533
-    },
-     {
-        "iata": "NZL",
-        "name": "Zhalantun Chengjisihan Airport",
-        "chinese_name": "扎兰屯成吉思汗机场",
-        "latitude": 47.969,
-        "longitude": 122.750
-    },
-    {
-        "iata": "DYG",
-        "name": "Zhangjiajie Hehua Airport",
-        "chinese_name": "张家界荷花机场",
-        "latitude": 29.107,
-        "longitude": 110.440
-    },
-    {
-        "iata": "ZQZ",
-        "name": "Zhangjiakou Ningyuan Airport",
-        "chinese_name": "张家口宁远机场",
-        "latitude": 40.761,
-        "longitude": 114.861
-    },
-    {
-        "iata": "YZY",
-        "name": "Zhangye Ganzhou Airport",
-        "chinese_name": "张掖甘州机场",
-        "latitude": 38.808,
-        "longitude": 100.618
-    },
-    {
-        "iata": "ZHA",
-        "name": "Zhanjiang Wuchuan Airport",
-        "chinese_name": "湛江吴川机场",
-        "latitude": 21.405,
-        "longitude": 110.778
-    },
-    {
-        "iata": "ZFL",
-        "name": "Zhaotong Airport",
-        "chinese_name": "昭通机场",
-        "latitude": 27.339,
-        "longitude": 103.705
-    },
-    {
-        "iata": "ZAT",
-        "name": "Zhaoyuan Airport",
-        "chinese_name": "招远机场",
-        "latitude": 37.428,
-        "longitude": 120.384
-    },
-    {
-        "iata": "CGO",
-        "name": "Zhengzhou Xinzheng International Airport",
-        "chinese_name": "郑州新郑国际机场",
-        "latitude": 34.522,
-        "longitude": 113.847
-    },
-    {
-        "iata": "ZHY",
-        "name": "Zhongwei Shapotou Airport",
-        "chinese_name": "中卫沙坡头机场",
-        "latitude": 37.515,
-        "longitude": 105.189
-    },
-    {
-        "iata": "HSN",
-        "name": "Zhoushan Putuoshan Airport",
-        "chinese_name": "舟山普陀山机场",
-        "latitude": 29.955,
-        "longitude": 122.353
-    },
-    {
-        "iata": "ZUH",
-        "name": "Zhuhai Jinwan Airport",
-        "chinese_name": "珠海金湾机场",
-        "latitude": 22.001,
-        "longitude": 113.350
-    },
-    {
-        "iata": "ZYI",
-        "name": "Zunyi Xinzhou Airport",
-        "chinese_name": "遵义新舟机场",
-        "latitude": 27.714,
-        "longitude": 107.065
-    },
-    {
-        "iata": "WMT",
-        "name": "Zunyi Maotai Airport",
-        "chinese_name": "遵义茅台机场",
-        "latitude": 27.873,
-        "longitude": 106.408
-    }
-]
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.291664,
+                    41.262501
+                ]
+            },
+            "properties": {
+                "name": "Aksu Airport",
+                "iata": "AKU",
+                "icao": "ZWAK",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.084442,
+                    47.750362
+                ]
+            },
+            "properties": {
+                "name": "Altay Airport",
+                "iata": "AAT",
+                "icao": "ZWAT",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.585693,
+                    38.747047
+                ]
+            },
+            "properties": {
+                "name": "Alxa Left Banner Airport",
+                "iata": "AXF",
+                "icao": "ZBAL",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    108.931046,
+                    32.708099
+                ]
+            },
+            "properties": {
+                "name": "Ankang Fuqiang Airport",
+                "iata": "AKA",
+                "icao": "ZLAK",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    117.050362,
+                    30.582333
+                ]
+            },
+            "properties": {
+                "name": "Anqing Tianzhushan Airport",
+                "iata": "AQG",
+                "icao": "ZSAQ",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    122.855835,
+                    41.103523
+                ]
+            },
+            "properties": {
+                "name": "Anshan Teng'ao Airport",
+                "iata": "AOG",
+                "icao": "ZYAS",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.873337,
+                    26.260555
+                ]
+            },
+            "properties": {
+                "name": "Anshun Huangguoshu Airport",
+                "iata": "AVA",
+                "icao": "ZUAS",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.465767,
+                    35.869514
+                ]
+            },
+            "properties": {
+                "name": "Anyang Hongqiqu Airport",
+                "iata": "HQQ",
+                "icao": "ZHQQ",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.263084,
+                    40.435261
+                ]
+            },
+            "properties": {
+                "name": "Aral Talim Airport",
+                "iata": "ACF",
+                "icao": "ZWAL",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.911942,
+                    47.310555
+                ]
+            },
+            "properties": {
+                "name": "Arxan Yiershi Airport",
+                "iata": "YIE",
+                "icao": "ZBES",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    123.019722,
+                    45.50528
+                ]
+            },
+            "properties": {
+                "name": "Baicheng Chang'an Airport",
+                "iata": "DBC",
+                "icao": "ZYBA",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.967773,
+                    23.719469
+                ]
+            },
+            "properties": {
+                "name": "Baise Bama Airport",
+                "iata": "AEB",
+                "icao": "ZGBS",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    127.548889,
+                    42.088055
+                ]
+            },
+            "properties": {
+                "name": "Baishan Changbaishan Airport",
+                "iata": "NBS",
+                "icao": "ZYBS",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.16143,
+                    25.055182
+                ]
+            },
+            "properties": {
+                "name": "Baoshan Yunduan Airport",
+                "iata": "BSD",
+                "icao": "ZPBS",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    109.996902,
+                    40.55999
+                ]
+            },
+            "properties": {
+                "name": "Baotou Erliban Airport",
+                "iata": "BAV",
+                "icao": "ZBOW",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.738892,
+                    40.926388
+                ]
+            },
+            "properties": {
+                "name": "Bayannur Tianjitai Airport",
+                "iata": "RLK",
+                "icao": "ZBYZ",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.64389,
+                    31.738056
+                ]
+            },
+            "properties": {
+                "name": "Bazhong Enyang Airport",
+                "iata": "BZX",
+                "icao": "ZUBZ",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    109.2938,
+                    21.53944
+                ]
+            },
+            "properties": {
+                "name": "Beihai Fucheng Airport",
+                "iata": "BHY",
+                "icao": "ZGBH",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.592735,
+                    40.084152
+                ]
+            },
+            "properties": {
+                "name": "Beijing Capital International Airport",
+                "iata": "PEK",
+                "icao": "ZBAA",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.410553,
+                    39.509167
+                ]
+            },
+            "properties": {
+                "name": "Beijing Daxing International Airport",
+                "iata": "PKX",
+                "icao": "ZBAD",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.479164,
+                    27.266666
+                ]
+            },
+            "properties": {
+                "name": "Bijie Feixiong Airport",
+                "iata": "BFJ",
+                "icao": "ZUBJ",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.299721,
+                    44.895
+                ]
+            },
+            "properties": {
+                "name": "Bole Alashankou Airport",
+                "iata": "BPL",
+                "icao": "ZWBL",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.998055,
+                    48.221111
+                ]
+            },
+            "properties": {
+                "name": "Burqin Kanas Airport",
+                "iata": "KJI",
+                "icao": "ZWKN",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.37059,
+                    23.273972
+                ]
+            },
+            "properties": {
+                "name": "Cangyuan Washan Airport",
+                "iata": "CWJ",
+                "icao": "ZPCW",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    125.685303,
+                    43.996208
+                ]
+            },
+            "properties": {
+                "name": "Changchun Longjia International Airport",
+                "iata": "CGQ",
+                "icao": "ZYCC",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    111.640198,
+                    28.91888
+                ]
+            },
+            "properties": {
+                "name": "Changde Taohuayuan Airport",
+                "iata": "CGD",
+                "icao": "ZGCD",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.223534,
+                    28.191599
+                ]
+            },
+            "properties": {
+                "name": "Changsha Huanghua International Airport",
+                "iata": "CSX",
+                "icao": "ZGHA",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.125801,
+                    36.247501
+                ]
+            },
+            "properties": {
+                "name": "Changzhi Wangcun Airport",
+                "iata": "CIH",
+                "icao": "ZBCZ",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.778603,
+                    31.91972
+                ]
+            },
+            "properties": {
+                "name": "Changzhou Benniu Airport",
+                "iata": "CZX",
+                "icao": "ZSCG",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.434998,
+                    41.538101
+                ]
+            },
+            "properties": {
+                "name": "Chaoyang Airport",
+                "iata": "CHG",
+                "icao": "ZYCY",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.073891,
+                    41.122501
+                ]
+            },
+            "properties": {
+                "name": "Chengde Puning Airport",
+                "iata": "CDE",
+                "icao": "ZBCD",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.946999,
+                    30.57852
+                ]
+            },
+            "properties": {
+                "name": "Chengdu Shuangliu International Airport",
+                "iata": "CTU",
+                "icao": "ZUUU",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.445,
+                    30.319
+                ]
+            },
+            "properties": {
+                "name": "Chengdu Tianfu International Airport",
+                "iata": "TFU",
+                "icao": "ZUTF",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.845192,
+                    25.753263
+                ]
+            },
+            "properties": {
+                "name": "Chenzhou Beihu Airport",
+                "iata": "HCZ",
+                "icao": "ZGCZ",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.834618,
+                    42.154861
+                ]
+            },
+            "properties": {
+                "name": "Chifeng Yulong Airport",
+                "iata": "CIF",
+                "icao": "ZBCF",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    117.686668,
+                    30.740278
+                ]
+            },
+            "properties": {
+                "name": "Chizhou Jiuhuashan Airport",
+                "iata": "JUH",
+                "icao": "ZSJH",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.641602,
+                    29.71921
+                ]
+            },
+            "properties": {
+                "name": "Chongqing Jiangbei International Airport",
+                "iata": "CKG",
+                "icao": "ZUCK",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.319,
+                    25.649401
+                ]
+            },
+            "properties": {
+                "name": "Dali Airport",
+                "iata": "DLU",
+                "icao": "ZPDL",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.538597,
+                    38.96566
+                ]
+            },
+            "properties": {
+                "name": "Dalian Zhoushuizi International Airport",
+                "iata": "DLC",
+                "icao": "ZYTL",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    124.286598,
+                    40.025551
+                ]
+            },
+            "properties": {
+                "name": "Dandong Langtou Airport",
+                "iata": "DDG",
+                "icao": "ZYDD",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.053329,
+                    29.323055
+                ]
+            },
+            "properties": {
+                "name": "Daocheng Yading Airport",
+                "iata": "DCY",
+                "icao": "ZUDC",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    125.139725,
+                    46.748684
+                ]
+            },
+            "properties": {
+                "name": "Daqing Sartu Airport",
+                "iata": "DQA",
+                "icao": "ZYDQ",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.481361,
+                    40.055538
+                ]
+            },
+            "properties": {
+                "name": "Datong Yungang Airport",
+                "iata": "DAT",
+                "icao": "ZBDT",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.445686,
+                    29.107121
+                ]
+            },
+            "properties": {
+                "name": "Dayong Zhangjiajie Hehua Airport",
+                "iata": "DYG",
+                "icao": "ZGDY",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.435455,
+                    31.047243
+                ]
+            },
+            "properties": {
+                "name": "Dazhou Jinya Airport",
+                "iata": "DZH",
+                "icao": "ZUDA",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    97.268608,
+                    37.125
+                ]
+            },
+            "properties": {
+                "name": "Delingha Airport",
+                "iata": "HXD",
+                "icao": "ZLDL",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.784447,
+                    37.510277
+                ]
+            },
+            "properties": {
+                "name": "Dongying Shengli Airport",
+                "iata": "DOY",
+                "icao": "ZSDY",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    94.809158,
+                    40.16111
+                ]
+            },
+            "properties": {
+                "name": "Dunhuang Airport",
+                "iata": "DNH",
+                "icao": "ZLDH",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    109.485001,
+                    30.320278
+                ]
+            },
+            "properties": {
+                "name": "Enshi Xujiaping Airport",
+                "iata": "ENH",
+                "icao": "ZHES",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.096664,
+                    43.422501
+                ]
+            },
+            "properties": {
+                "name": "Erenhot Saiwusu International Airport",
+                "iata": "ERL",
+                "icao": "ZBER",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.039101,
+                    30.341
+                ]
+            },
+            "properties": {
+                "name": "Ezhou Huahu Airport",
+                "iata": "EHU",
+                "icao": "ZHEC",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.070831,
+                    23.0825
+                ]
+            },
+            "properties": {
+                "name": "Foshan Shadi Airport",
+                "iata": "FUO",
+                "icao": "ZGFS",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.734367,
+                    32.882156
+                ]
+            },
+            "properties": {
+                "name": "Fuyang Xiguan Airport",
+                "iata": "FUG",
+                "icao": "ZSFY",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.36644,
+                    48.199493
+                ]
+            },
+            "properties": {
+                "name": "Fuyuan Dongji Airport",
+                "iata": "FYJ",
+                "icao": "ZYFY",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    89.511978,
+                    46.804222
+                ]
+            },
+            "properties": {
+                "name": "Fuyun Koktokay Airport",
+                "iata": "FYN",
+                "icao": "ZWFY",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.663368,
+                    25.934599
+                ]
+            },
+            "properties": {
+                "name": "Fuzhou Changle International Airport",
+                "iata": "FOC",
+                "icao": "ZSFZ",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.776665,
+                    25.851667
+                ]
+            },
+            "properties": {
+                "name": "Ganzhou Huangjin Airport",
+                "iata": "KOW",
+                "icao": "ZSGZ",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.554169,
+                    31.7575
+                ]
+            },
+            "properties": {
+                "name": "Garze Gesar Airport",
+                "iata": "GZG",
+                "icao": "ZUGZ",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    94.786102,
+                    36.4006
+                ]
+            },
+            "properties": {
+                "name": "Golmud Airport",
+                "iata": "GOQ",
+                "icao": "ZLGM",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.311111,
+                    34.415833
+                ]
+            },
+            "properties": {
+                "name": "Golog Maqin Airport",
+                "iata": "GMQ",
+                "icao": "ZLGL",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.329536,
+                    30.948483
+                ]
+            },
+            "properties": {
+                "name": "Guanghan Airport",
+                "iata": "GHN",
+                "icao": "ZUGH",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.693336,
+                    32.389999
+                ]
+            },
+            "properties": {
+                "name": "Guangyuan Panlong Airport",
+                "iata": "GYS",
+                "icao": "ZUGU",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.298698,
+                    23.392429
+                ]
+            },
+            "properties": {
+                "name": "Guangzhou Baiyun International Airport",
+                "iata": "CAN",
+                "icao": "ZGGG",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.039101,
+                    25.2181
+                ]
+            },
+            "properties": {
+                "name": "Guilin Liangjiang International Airport",
+                "iata": "KWL",
+                "icao": "ZGKL",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.800697,
+                    26.538521
+                ]
+            },
+            "properties": {
+                "name": "Guiyang Longdongbao International Airport",
+                "iata": "KWE",
+                "icao": "ZUGY",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.209999,
+                    36.07
+                ]
+            },
+            "properties": {
+                "name": "Guyuan Liupanshan Airport",
+                "iata": "GYU",
+                "icao": "ZLGY",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.4589,
+                    19.934851
+                ]
+            },
+            "properties": {
+                "name": "Haikou Meilan International Airport",
+                "iata": "HAK",
+                "icao": "ZJHK",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.824997,
+                    49.20499
+                ]
+            },
+            "properties": {
+                "name": "Hailar Hulunbuir Airport",
+                "iata": "HLD",
+                "icao": "ZBLA",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    93.669441,
+                    42.842499
+                ]
+            },
+            "properties": {
+                "name": "Hami Airport",
+                "iata": "HMI",
+                "icao": "ZWHM",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.423988,
+                    36.524715
+                ]
+            },
+            "properties": {
+                "name": "Handan Airport",
+                "iata": "HDG",
+                "icao": "ZBHD",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.434402,
+                    30.2295
+                ]
+            },
+            "properties": {
+                "name": "Hangzhou Xiaoshan International Airport",
+                "iata": "HGH",
+                "icao": "ZSHC",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.205544,
+                    33.133991
+                ]
+            },
+            "properties": {
+                "name": "Hanzhong Chenggu Airport",
+                "iata": "HZG",
+                "icao": "ZLHZ",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    126.250298,
+                    45.623402
+                ]
+            },
+            "properties": {
+                "name": "Harbin Taiping International Airport",
+                "iata": "HRB",
+                "icao": "ZYHB",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.713219,
+                    24.802338
+                ]
+            },
+            "properties": {
+                "name": "Hechi Jinchengjiang Airport",
+                "iata": "HCJ",
+                "icao": "ZGHC",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.970474,
+                    31.986345
+                ]
+            },
+            "properties": {
+                "name": "Hefei Xinqiao International Airport",
+                "iata": "HFE",
+                "icao": "ZSOF",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    127.308884,
+                    50.171619
+                ]
+            },
+            "properties": {
+                "name": "Heihe Airport",
+                "iata": "HEK",
+                "icao": "ZYHE",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.618057,
+                    26.721945
+                ]
+            },
+            "properties": {
+                "name": "Hengyang Nanyue Airport",
+                "iata": "HNY",
+                "icao": "ZGHY",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.736923,
+                    35.212982
+                ]
+            },
+            "properties": {
+                "name": "Heze Mudan Airport",
+                "iata": "HZA",
+                "icao": "ZSHZ",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    111.824097,
+                    40.851421
+                ]
+            },
+            "properties": {
+                "name": "Hohhot Baita International Airport",
+                "iata": "HET",
+                "icao": "ZBHH",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.410568,
+                    45.486439
+                ]
+            },
+            "properties": {
+                "name": "Holingol Huolinhe Airport",
+                "iata": "HUO",
+                "icao": "ZBHZ",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.357399,
+                    32.527401
+                ]
+            },
+            "properties": {
+                "name": "Hongyuan Airport",
+                "iata": "AHJ",
+                "icao": "ZUHY",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.864929,
+                    37.038521
+                ]
+            },
+            "properties": {
+                "name": "Hotan Airport",
+                "iata": "HTN",
+                "icao": "ZWTN",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.147781,
+                    33.777222
+                ]
+            },
+            "properties": {
+                "name": "Huai'an Lianshui Airport",
+                "iata": "HIA",
+                "icao": "ZSSH",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    109.699722,
+                    27.441389
+                ]
+            },
+            "properties": {
+                "name": "Huaihua Zhijiang Airport",
+                "iata": "HJJ",
+                "icao": "ZGCJ",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.255798,
+                    29.73333
+                ]
+            },
+            "properties": {
+                "name": "Huangshan Tunxi International Airport",
+                "iata": "TXN",
+                "icao": "ZSTX",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.428596,
+                    28.56222
+                ]
+            },
+            "properties": {
+                "name": "Huangyan Luqiao Airport",
+                "iata": "HYN",
+                "icao": "ZSLQ",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    90.837906,
+                    38.202
+                ]
+            },
+            "properties": {
+                "name": "Huatugou Airport",
+                "iata": "HTT",
+                "icao": "ZLHX",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.596863,
+                    23.050419
+                ]
+            },
+            "properties": {
+                "name": "Huizhou Pingtan Airport",
+                "iata": "HUZ",
+                "icao": "ZGHZ",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.737503,
+                    26.899721
+                ]
+            },
+            "properties": {
+                "name": "Ji'an Airport",
+                "iata": "JGS",
+                "icao": "ZSJA",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    124.11763,
+                    50.371086
+                ]
+            },
+            "properties": {
+                "name": "Jiagedaqi Airport",
+                "iata": "JGD",
+                "icao": "ZYJD",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    130.455414,
+                    46.845394
+                ]
+            },
+            "properties": {
+                "name": "Jiamusi Dongjiao Airport",
+                "iata": "JMU",
+                "icao": "ZYJM",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.656387,
+                    47.108055
+                ]
+            },
+            "properties": {
+                "name": "Jiansanjiang Airport",
+                "iata": "JSJ",
+                "icao": "ZYJS",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    98.410004,
+                    39.830002
+                ]
+            },
+            "properties": {
+                "name": "Jiayuguan Airport",
+                "iata": "JGN",
+                "icao": "ZLJQ",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.505836,
+                    23.5525
+                ]
+            },
+            "properties": {
+                "name": "Jieyang Chaoshan International Airport",
+                "iata": "SWA",
+                "icao": "ZGOW",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    117.215897,
+                    36.857208
+                ]
+            },
+            "properties": {
+                "name": "Jinan Yaoqiang International Airport",
+                "iata": "TNA",
+                "icao": "ZSJN",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.347778,
+                    38.541943
+                ]
+            },
+            "properties": {
+                "name": "Jinchang Jinchuan Airport",
+                "iata": "JIC",
+                "icao": "ZLJC",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    117.175797,
+                    29.33861
+                ]
+            },
+            "properties": {
+                "name": "Jingdezhen Luojia Airport",
+                "iata": "JDZ",
+                "icao": "ZSJD",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.766457,
+                    21.973421
+                ]
+            },
+            "properties": {
+                "name": "Jinghong Xishuangbanna Gasa Airport",
+                "iata": "JHG",
+                "icao": "ZPJH",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.44828,
+                    30.293116
+                ]
+            },
+            "properties": {
+                "name": "Jingzhou Shashi Airport",
+                "iata": "SHS",
+                "icao": "ZHJZ",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.339996,
+                    35.290001
+                ]
+            },
+            "properties": {
+                "name": "Jining Qufu Airport",
+                "iata": "JNG",
+                "icao": "ZSJG",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.276947,
+                    40.936111
+                ]
+            },
+            "properties": {
+                "name": "Jinzhou Bay Airport",
+                "iata": "JNZ",
+                "icao": "ZYJZ",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.800003,
+                    29.469999
+                ]
+            },
+            "properties": {
+                "name": "Jiujiang Lushan Airport",
+                "iata": "JIU",
+                "icao": "ZSJJ",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    131.190811,
+                    45.293587
+                ]
+            },
+            "properties": {
+                "name": "Jixi Airport",
+                "iata": "JXA",
+                "icao": "ZYJX",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.980553,
+                    26.974167
+                ]
+            },
+            "properties": {
+                "name": "Kaili Huangping Airport",
+                "iata": "KJH",
+                "icao": "ZUKJ",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.747536,
+                    30.13176
+                ]
+            },
+            "properties": {
+                "name": "Kangding Airport",
+                "iata": "KGT",
+                "icao": "ZUKD",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    84.952499,
+                    45.466389
+                ]
+            },
+            "properties": {
+                "name": "Karamay Airport",
+                "iata": "KRY",
+                "icao": "ZWKM",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.019951,
+                    39.542919
+                ]
+            },
+            "properties": {
+                "name": "Kashgar Airport",
+                "iata": "KHG",
+                "icao": "ZWSH",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.120003,
+                    41.689999
+                ]
+            },
+            "properties": {
+                "name": "Korla Airport",
+                "iata": "KRL",
+                "icao": "ZWKL",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.929169,
+                    25.101944
+                ]
+            },
+            "properties": {
+                "name": "Kunming Changshui International Airport",
+                "iata": "KMG",
+                "icao": "ZPPP",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.986946,
+                    41.718056
+                ]
+            },
+            "properties": {
+                "name": "Kuqa Qiuci Airport",
+                "iata": "KCA",
+                "icao": "ZWKC",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.786392,
+                    22.415833
+                ]
+            },
+            "properties": {
+                "name": "Lancang Jingmai Airport",
+                "iata": "JMJ",
+                "icao": "ZPJM",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.035324,
+                    31.503513
+                ]
+            },
+            "properties": {
+                "name": "Langzhong Gucheng Airport",
+                "iata": "LZG",
+                "icao": "ZULA",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.620697,
+                    36.51524
+                ]
+            },
+            "properties": {
+                "name": "Lanzhou Zhongchuan International Airport",
+                "iata": "LHW",
+                "icao": "ZLLL",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    90.911942,
+                    29.29777
+                ]
+            },
+            "properties": {
+                "name": "Lhasa Gonggar Airport",
+                "iata": "LXA",
+                "icao": "ZULS",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.178467,
+                    34.412914
+                ]
+            },
+            "properties": {
+                "name": "Lianyungang Huaguoshan International Airport",
+                "iata": "LYG",
+                "icao": "ZSLG",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.96167,
+                    25.452499
+                ]
+            },
+            "properties": {
+                "name": "Libo Airport",
+                "iata": "LLB",
+                "icao": "ZULB",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.25,
+                    26.683332
+                ]
+            },
+            "properties": {
+                "name": "Lijiang Sanyi Airport",
+                "iata": "LJG",
+                "icao": "ZPLJ",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.025002,
+                    23.738333
+                ]
+            },
+            "properties": {
+                "name": "Lincang Airport",
+                "iata": "LNJ",
+                "icao": "ZPLC",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    111.658058,
+                    36.131668
+                ]
+            },
+            "properties": {
+                "name": "Linfen Qiaoli Airport",
+                "iata": "LFQ",
+                "icao": "ZBLF",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.411667,
+                    35.046112
+                ]
+            },
+            "properties": {
+                "name": "Linyi Shubuling Airport",
+                "iata": "LYI",
+                "icao": "ZSLY",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    109.153809,
+                    26.320213
+                ]
+            },
+            "properties": {
+                "name": "Liping Airport",
+                "iata": "HZH",
+                "icao": "ZUNP",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.978996,
+                    26.609417
+                ]
+            },
+            "properties": {
+                "name": "Liupanshui Yuezhao Airport",
+                "iata": "LPF",
+                "icao": "ZUPS",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    109.391098,
+                    24.2075
+                ]
+            },
+            "properties": {
+                "name": "Liuzhou Bailian Airport",
+                "iata": "LZH",
+                "icao": "ZGZH",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.796997,
+                    33.787998
+                ]
+            },
+            "properties": {
+                "name": "Longnan Cheng Xian Airport",
+                "iata": "LNL",
+                "icao": "ZLLN",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.747002,
+                    25.6747
+                ]
+            },
+            "properties": {
+                "name": "Longyan Guanzhishan Airport",
+                "iata": "LCX",
+                "icao": "ZSLD",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.388298,
+                    34.741112
+                ]
+            },
+            "properties": {
+                "name": "Luoyang Beijiao Airport",
+                "iata": "LYA",
+                "icao": "ZHLY",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.470001,
+                    29.030001
+                ]
+            },
+            "properties": {
+                "name": "Luzhou Yunlong Airport",
+                "iata": "LZO",
+                "icao": "ZULZ",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    111.142776,
+                    37.6833
+                ]
+            },
+            "properties": {
+                "name": "Lyuliang Airport",
+                "iata": "LLV",
+                "icao": "ZBLL",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    98.531898,
+                    24.405279
+                ]
+            },
+            "properties": {
+                "name": "Mangshi Airport",
+                "iata": "LUM",
+                "icao": "ZPLX",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    117.331032,
+                    49.566513
+                ]
+            },
+            "properties": {
+                "name": "Manzhouli Xijiao Airport",
+                "iata": "NZH",
+                "icao": "ZBMZ",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.103996,
+                    24.268999
+                ]
+            },
+            "properties": {
+                "name": "Meixian Airport",
+                "iata": "MXZ",
+                "icao": "ZGMX",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.738052,
+                    31.43111
+                ]
+            },
+            "properties": {
+                "name": "Mianyang Nanjiao Airport",
+                "iata": "MIG",
+                "icao": "ZUMY",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    122.420593,
+                    52.921131
+                ]
+            },
+            "properties": {
+                "name": "Mohe Gulian Airport",
+                "iata": "OHE",
+                "icao": "ZYMH",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    129.568497,
+                    44.52401
+                ]
+            },
+            "properties": {
+                "name": "Mudanjiang Hailang Airport",
+                "iata": "MDG",
+                "icao": "ZYMD",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.900002,
+                    28.865
+                ]
+            },
+            "properties": {
+                "name": "Nanchang Changbei International Airport",
+                "iata": "KHN",
+                "icao": "ZSCN",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.159721,
+                    30.793888
+                ]
+            },
+            "properties": {
+                "name": "Nanchong Gaoping Airport",
+                "iata": "NAO",
+                "icao": "ZUNC",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.862,
+                    31.742041
+                ]
+            },
+            "properties": {
+                "name": "Nanjing Lukou International Airport",
+                "iata": "NKG",
+                "icao": "ZSNJ",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    108.172401,
+                    22.608259
+                ]
+            },
+            "properties": {
+                "name": "Nanning Wuxu International Airport",
+                "iata": "NNG",
+                "icao": "ZGNN",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.975601,
+                    32.072922
+                ]
+            },
+            "properties": {
+                "name": "Nantong Xingdong Airport",
+                "iata": "NTG",
+                "icao": "ZSNT",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.610001,
+                    32.98
+                ]
+            },
+            "properties": {
+                "name": "Nanyang Jiangying Airport",
+                "iata": "NNY",
+                "icao": "ZHNY",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.461899,
+                    29.826679
+                ]
+            },
+            "properties": {
+                "name": "Ningbo Lishe International Airport",
+                "iata": "NGB",
+                "icao": "ZSNB",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.759323,
+                    27.542559
+                ]
+            },
+            "properties": {
+                "name": "Ninglang Luguhu Airport",
+                "iata": "NLH",
+                "icao": "ZPNL",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    94.335884,
+                    29.309076
+                ]
+            },
+            "properties": {
+                "name": "Nyingchi Mainling Airport",
+                "iata": "LZY",
+                "icao": "ZUNZ",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    109.862221,
+                    39.493889
+                ]
+            },
+            "properties": {
+                "name": "Ordos Ejin Horo Airport",
+                "iata": "DSN",
+                "icao": "ZBDS",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.798515,
+                    26.542315
+                ]
+            },
+            "properties": {
+                "name": "Panzhihua Bao'angong Airport",
+                "iata": "PZI",
+                "icao": "ZUZH",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.962219,
+                    22.79657
+                ]
+            },
+            "properties": {
+                "name": "Pu'er Simao Airport",
+                "iata": "SYM",
+                "icao": "ZPSM",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    97.10833,
+                    30.55361
+                ]
+            },
+            "properties": {
+                "name": "Qamdo Bamda Airport",
+                "iata": "BPX",
+                "icao": "ZUBD",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    108.832306,
+                    29.515894
+                ]
+            },
+            "properties": {
+                "name": "Qianjiang Wulingshan Airport",
+                "iata": "JIQ",
+                "icao": "ZUQJ",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.532799,
+                    38.149399
+                ]
+            },
+            "properties": {
+                "name": "Qiemo Airport",
+                "iata": "IQM",
+                "icao": "ZWCM",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.642593,
+                    38.008736
+                ]
+            },
+            "properties": {
+                "name": "Qilian Haibei Airport",
+                "iata": "HBQ",
+                "icao": "ZLHB",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.085068,
+                    36.369564
+                ]
+            },
+            "properties": {
+                "name": "Qingdao Jiaodong International Airport",
+                "iata": "TAO",
+                "icao": "ZSQD",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.602997,
+                    35.799702
+                ]
+            },
+            "properties": {
+                "name": "Qingyang Airport",
+                "iata": "IQN",
+                "icao": "ZLQY",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.058891,
+                    39.666389
+                ]
+            },
+            "properties": {
+                "name": "Qinhuangdao Beidaihe Airport",
+                "iata": "BPE",
+                "icao": "ZBDH",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.455772,
+                    19.13969
+                ]
+            },
+            "properties": {
+                "name": "Qionghai Bo'ao Airport",
+                "iata": "BAR",
+                "icao": "ZJQH",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    123.915375,
+                    47.227825
+                ]
+            },
+            "properties": {
+                "name": "Qiqihar Sanjiazi Airport",
+                "iata": "NDG",
+                "icao": "ZYQQ",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    89.552307,
+                    44.165115
+                ]
+            },
+            "properties": {
+                "name": "Qitai Jiangbulake Airport",
+                "iata": "JBK",
+                "icao": "ZWQT",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.589439,
+                    24.797356
+                ]
+            },
+            "properties": {
+                "name": "Quanzhou Jinjiang Airport",
+                "iata": "JJN",
+                "icao": "ZSQZ",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.899734,
+                    28.966757
+                ]
+            },
+            "properties": {
+                "name": "Quzhou Airport",
+                "iata": "JUZ",
+                "icao": "ZSJU",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.316666,
+                    35.399723
+                ]
+            },
+            "properties": {
+                "name": "Rizhao Shanzihe Airport",
+                "iata": "RIZ",
+                "icao": "ZSRZ",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.008415,
+                    38.974689
+                ]
+            },
+            "properties": {
+                "name": "Ruoqiang Loulan Airport",
+                "iata": "RQA",
+                "icao": "ZWRQ",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    117.836914,
+                    26.428211
+                ]
+            },
+            "properties": {
+                "name": "Sanming Shaxian Airport",
+                "iata": "SQJ",
+                "icao": "ZSSM",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    109.412201,
+                    18.302891
+                ]
+            },
+            "properties": {
+                "name": "Sanya Phoenix International Airport",
+                "iata": "SYX",
+                "icao": "ZJSY",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.059998,
+                    38.244999
+                ]
+            },
+            "properties": {
+                "name": "Shache Yeerqiang Airport",
+                "iata": "QSZ",
+                "icao": "ZWSC",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.336304,
+                    31.19787
+                ]
+            },
+            "properties": {
+                "name": "Shanghai Hongqiao International Airport",
+                "iata": "SHA",
+                "icao": "ZSSS",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.805199,
+                    31.14337
+                ]
+            },
+            "properties": {
+                "name": "Shanghai Pudong International Airport",
+                "iata": "PVG",
+                "icao": "ZSPD",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    117.961327,
+                    28.39212
+                ]
+            },
+            "properties": {
+                "name": "Shangrao Sanqingshan Airport",
+                "iata": "SQD",
+                "icao": "ZSSR",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.67733,
+                    27.793333
+                ]
+            },
+            "properties": {
+                "name": "Shangri-La Diqing Airport",
+                "iata": "DIG",
+                "icao": "ZPDQ",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.421494,
+                    24.976419
+                ]
+            },
+            "properties": {
+                "name": "Shaoguan Danxia Airport",
+                "iata": "HSC",
+                "icao": "ZGSG",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.640793,
+                    26.805294
+                ]
+            },
+            "properties": {
+                "name": "Shaoyang Wugang Airport",
+                "iata": "WGN",
+                "icao": "ZGSY",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.338058,
+                    31.633612
+                ]
+            },
+            "properties": {
+                "name": "Shennongjia Hongping Airport",
+                "iata": "HPG",
+                "icao": "ZHSN",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    123.483398,
+                    41.639839
+                ]
+            },
+            "properties": {
+                "name": "Shenyang Taoxian International Airport",
+                "iata": "SHE",
+                "icao": "ZYTX",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.803993,
+                    22.638775
+                ]
+            },
+            "properties": {
+                "name": "Shenzhen Bao'an International Airport",
+                "iata": "SZX",
+                "icao": "ZGSZ",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    89.309998,
+                    29.351944
+                ]
+            },
+            "properties": {
+                "name": "Shigatse Peace Airport",
+                "iata": "RKZ",
+                "icao": "ZURK",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.891113,
+                    44.241669
+                ]
+            },
+            "properties": {
+                "name": "Shihezi Huayuan Airport",
+                "iata": "SHF",
+                "icao": "ZWHZ",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.694427,
+                    38.274376
+                ]
+            },
+            "properties": {
+                "name": "Shijiazhuang Zhengding International Airport",
+                "iata": "SJW",
+                "icao": "ZBSJ",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.051659,
+                    32.102615
+                ]
+            },
+            "properties": {
+                "name": "Shiquanhe Ngari Gunsa Airport",
+                "iata": "NGQ",
+                "icao": "ZUAL",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.907776,
+                    32.591667
+                ]
+            },
+            "properties": {
+                "name": "Shiyan Wudangshan Airport",
+                "iata": "WDS",
+                "icao": "ZHSY",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.596947,
+                    39.474823
+                ]
+            },
+            "properties": {
+                "name": "Shuozhou Zirun Airport",
+                "iata": "SZH",
+                "icao": "ZBSG",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.68306,
+                    32.856667
+                ]
+            },
+            "properties": {
+                "name": "Songpan Jiuzhai Huanglong Airport",
+                "iata": "JZH",
+                "icao": "ZUJZ",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    124.553658,
+                    44.932838
+                ]
+            },
+            "properties": {
+                "name": "Songyuan Chaganhu Airport",
+                "iata": "YSQ",
+                "icao": "ZYSQ",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    83.333336,
+                    46.666668
+                ]
+            },
+            "properties": {
+                "name": "Tacheng Airport",
+                "iata": "TCG",
+                "icao": "ZWTC",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.628403,
+                    37.746891
+                ]
+            },
+            "properties": {
+                "name": "Taiyuan Wusu International Airport",
+                "iata": "TYN",
+                "icao": "ZBYN",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    117.99791,
+                    39.718784
+                ]
+            },
+            "properties": {
+                "name": "Tangshan Sannuhe Airport",
+                "iata": "TVS",
+                "icao": "ZBTS",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    75.291367,
+                    37.656796
+                ]
+            },
+            "properties": {
+                "name": "Tashkurgan Khunjerab Airport",
+                "iata": "HQL",
+                "icao": "ZWTK",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    98.482025,
+                    24.939379
+                ]
+            },
+            "properties": {
+                "name": "Tengchong Tuofeng Airport",
+                "iata": "TCZ",
+                "icao": "ZPTC",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    117.3461,
+                    39.124352
+                ]
+            },
+            "properties": {
+                "name": "Tianjin Binhai International Airport",
+                "iata": "TSN",
+                "icao": "ZBTJ",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.861115,
+                    34.558334
+                ]
+            },
+            "properties": {
+                "name": "Tianshui Maijishan Airport",
+                "iata": "THQ",
+                "icao": "ZLTS",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    125.733467,
+                    42.047733
+                ]
+            },
+            "properties": {
+                "name": "Tonghua Sanyuanpu Airport",
+                "iata": "TNH",
+                "icao": "ZYTN",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    122.199699,
+                    43.55666
+                ]
+            },
+            "properties": {
+                "name": "Tongliao Airport",
+                "iata": "TGO",
+                "icao": "ZBTL",
+                "country": "China"
+            },
+            "id": 188
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    109.308891,
+                    27.883333
+                ]
+            },
+            "properties": {
+                "name": "Tongren Fenghuang Airport",
+                "iata": "TEN",
+                "icao": "ZUTR",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.234367,
+                    39.888268
+                ]
+            },
+            "properties": {
+                "name": "Tumxuk Tangwangcheng Airport",
+                "iata": "TWC",
+                "icao": "ZWTS",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    89.102272,
+                    43.030754
+                ]
+            },
+            "properties": {
+                "name": "Turpan Jiaohe Airport",
+                "iata": "TLQ",
+                "icao": "ZWTP",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    122.008598,
+                    46.194439
+                ]
+            },
+            "properties": {
+                "name": "Ulanhot Airport",
+                "iata": "HLH",
+                "icao": "ZBUL",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.108055,
+                    41.129723
+                ]
+            },
+            "properties": {
+                "name": "Ulanqab Jining Airport",
+                "iata": "UCB",
+                "icao": "ZBUC",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    87.474243,
+                    43.907101
+                ]
+            },
+            "properties": {
+                "name": "Urumqi Diwopu International Airport",
+                "iata": "URC",
+                "icao": "ZWWW",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    108.426949,
+                    30.799679
+                ]
+            },
+            "properties": {
+                "name": "Wanzhou Wuqiao Airport",
+                "iata": "WXN",
+                "icao": "ZUWX",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.119003,
+                    36.646702
+                ]
+            },
+            "properties": {
+                "name": "Weifang Airport",
+                "iata": "WEF",
+                "icao": "ZSWF",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    122.236069,
+                    37.188141
+                ]
+            },
+            "properties": {
+                "name": "Weihai Dashuibo Airport",
+                "iata": "WEH",
+                "icao": "ZSWH",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.242561,
+                    23.374907
+                ]
+            },
+            "properties": {
+                "name": "Wenshan Puzhehei Airport",
+                "iata": "WNH",
+                "icao": "ZPWS",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.852585,
+                    27.909035
+                ]
+            },
+            "properties": {
+                "name": "Wenzhou Longwan International Airport",
+                "iata": "WNZ",
+                "icao": "ZSWZ",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    126.133446,
+                    48.442207
+                ]
+            },
+            "properties": {
+                "name": "Wudalianchi Dedu Airport",
+                "iata": "DTU",
+                "icao": "ZYDU",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.799294,
+                    39.792404
+                ]
+            },
+            "properties": {
+                "name": "Wuhai Airport",
+                "iata": "WUA",
+                "icao": "ZBUH",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.208099,
+                    30.783751
+                ]
+            },
+            "properties": {
+                "name": "Wuhan Tianhe International Airport",
+                "iata": "WUH",
+                "icao": "ZHHH",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.667046,
+                    31.104519
+                ]
+            },
+            "properties": {
+                "name": "Wuhu Xuanzhou Airport",
+                "iata": "WHA",
+                "icao": "ZSWA",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.693855,
+                    29.466768
+                ]
+            },
+            "properties": {
+                "name": "Wulong Chongqing Xiannvshan Airport",
+                "iata": "CQW",
+                "icao": "ZUWL",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    109.709167,
+                    31.06889
+                ]
+            },
+            "properties": {
+                "name": "Wushan Chongqing Airport",
+                "iata": "WSK",
+                "icao": "ZUWS",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.424377,
+                    31.492889
+                ]
+            },
+            "properties": {
+                "name": "Wuxi Sunan Shuofang International Airport",
+                "iata": "WUX",
+                "icao": "ZSWX",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    117.966667,
+                    27.716667
+                ]
+            },
+            "properties": {
+                "name": "Wuyishan Airport",
+                "iata": "WUS",
+                "icao": "ZSWY",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    111.09861,
+                    23.401388
+                ]
+            },
+            "properties": {
+                "name": "Wuzhou Changzhoudao Airport",
+                "iata": "WUZ",
+                "icao": "ZGWZ",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    108.751503,
+                    34.447109
+                ]
+            },
+            "properties": {
+                "name": "Xi'an Xianyang International Airport",
+                "iata": "XIY",
+                "icao": "ZLXY",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.644722,
+                    34.810555
+                ]
+            },
+            "properties": {
+                "name": "Xiahe Gannan Airport",
+                "iata": "GXH",
+                "icao": "ZLXH",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.127701,
+                    24.544029
+                ]
+            },
+            "properties": {
+                "name": "Xiamen Gaoqi International Airport",
+                "iata": "XMN",
+                "icao": "ZSAM",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    109.52169,
+                    28.497126
+                ]
+            },
+            "properties": {
+                "name": "Xiangxi Biancheng Airport",
+                "iata": "DXJ",
+                "icao": "ZGXX",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.290802,
+                    32.150551
+                ]
+            },
+            "properties": {
+                "name": "Xiangyang Liuji Airport",
+                "iata": "XFN",
+                "icao": "ZHXF",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.184303,
+                    27.98908
+                ]
+            },
+            "properties": {
+                "name": "Xichang Qingshan Airport",
+                "iata": "XIC",
+                "icao": "ZUXC",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.811935,
+                    28.603273
+                ]
+            },
+            "properties": {
+                "name": "Xigaze Dingri Airport",
+                "iata": "DDR",
+                "icao": "ZUDR",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.963799,
+                    43.91555
+                ]
+            },
+            "properties": {
+                "name": "Xilinhot Airport",
+                "iata": "XIL",
+                "icao": "ZBXH",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.429169,
+                    36.883373
+                ]
+            },
+            "properties": {
+                "name": "Xingtai Dalian Airport",
+                "iata": "XNT",
+                "icao": "ZBXT",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.959442,
+                    25.08639
+                ]
+            },
+            "properties": {
+                "name": "Xingyi Wanfenglin Airport",
+                "iata": "ACX",
+                "icao": "ZUYI",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.037537,
+                    36.525322
+                ]
+            },
+            "properties": {
+                "name": "Xining Caojiabao Airport",
+                "iata": "XNN",
+                "icao": "ZLXN",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.079674,
+                    32.540993
+                ]
+            },
+            "properties": {
+                "name": "Xinyang Minggang Airport",
+                "iata": "XAI",
+                "icao": "ZHXY",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    83.382225,
+                    43.43222
+                ]
+            },
+            "properties": {
+                "name": "Xinyuan Nalati Airport",
+                "iata": "NLT",
+                "icao": "ZWNL",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.967781,
+                    38.599167
+                ]
+            },
+            "properties": {
+                "name": "Xinzhou Wutaishan Airport",
+                "iata": "WUT",
+                "icao": "ZBXZ",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    117.554077,
+                    34.052925
+                ]
+            },
+            "properties": {
+                "name": "Xuzhou Guanyin Airport",
+                "iata": "XUZ",
+                "icao": "ZSXZ",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    109.463882,
+                    36.480263
+                ]
+            },
+            "properties": {
+                "name": "Yan'an Nanniwan Airport",
+                "iata": "ENY",
+                "icao": "ZLYA",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.208015,
+                    33.431339
+                ]
+            },
+            "properties": {
+                "name": "Yancheng Nanyang Airport",
+                "iata": "YNZ",
+                "icao": "ZSYN",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.718887,
+                    32.563057
+                ]
+            },
+            "properties": {
+                "name": "Yangzhou Taizhou Airport",
+                "iata": "YTY",
+                "icao": "ZSYA",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    129.439362,
+                    42.885662
+                ]
+            },
+            "properties": {
+                "name": "Yanji Chaoyangchuan Airport",
+                "iata": "YNJ",
+                "icao": "ZYYJ",
+                "country": "China"
+            },
+            "id": 227
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.987221,
+                    37.657223
+                ]
+            },
+            "properties": {
+                "name": "Yantai Penglai International Airport",
+                "iata": "YNT",
+                "icao": "ZSYT",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.543953,
+                    28.797659
+                ]
+            },
+            "properties": {
+                "name": "Yibin Caiba Airport",
+                "iata": "YBP",
+                "icao": "ZUYB",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    111.479942,
+                    30.556473
+                ]
+            },
+            "properties": {
+                "name": "Yichang Sanxia Airport",
+                "iata": "YIH",
+                "icao": "ZHYC",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    129.01799,
+                    47.751827
+                ]
+            },
+            "properties": {
+                "name": "Yichun Lindu Airport",
+                "iata": "LDS",
+                "icao": "ZYLD",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.30806,
+                    27.803333
+                ]
+            },
+            "properties": {
+                "name": "Yichun Mingyueshan Airport",
+                "iata": "YIC",
+                "icao": "ZSYC",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.393303,
+                    38.322769
+                ]
+            },
+            "properties": {
+                "name": "Yinchuan Hedong International Airport",
+                "iata": "INC",
+                "icao": "ZLIC",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    122.357346,
+                    40.540833
+                ]
+            },
+            "properties": {
+                "name": "Yingkou Lanqi Airport",
+                "iata": "YKH",
+                "icao": "ZYYK",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.330276,
+                    43.955833
+                ]
+            },
+            "properties": {
+                "name": "Yining Airport",
+                "iata": "YIN",
+                "icao": "ZWYN",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.031601,
+                    29.34273
+                ]
+            },
+            "properties": {
+                "name": "Yiwu Airport",
+                "iata": "YIW",
+                "icao": "ZSYW",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    111.610046,
+                    26.338661
+                ]
+            },
+            "properties": {
+                "name": "Yongzhou Lingling Airport",
+                "iata": "LLF",
+                "icao": "ZGLG",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.28167,
+                    29.312778
+                ]
+            },
+            "properties": {
+                "name": "Yueyang Sanhe Airport",
+                "iata": "YYA",
+                "icao": "ZGYY",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.120834,
+                    22.438057
+                ]
+            },
+            "properties": {
+                "name": "Yulin Fumian Airport",
+                "iata": "YLX",
+                "icao": "ZGYL",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    109.591835,
+                    38.358749
+                ]
+            },
+            "properties": {
+                "name": "Yulin Yuyang Airport",
+                "iata": "UYN",
+                "icao": "ZLYL",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    111.039719,
+                    35.116669
+                ]
+            },
+            "properties": {
+                "name": "Yuncheng Guangong Airport",
+                "iata": "YCU",
+                "icao": "ZBYC",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    97.037788,
+                    32.839466
+                ]
+            },
+            "properties": {
+                "name": "Yushu Batang Airport",
+                "iata": "YUS",
+                "icao": "ZLYS",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.779541,
+                    36.808224
+                ]
+            },
+            "properties": {
+                "name": "Yutian Wanfang Airport",
+                "iata": "YTW",
+                "icao": "ZWYT",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    122.769356,
+                    47.868774
+                ]
+            },
+            "properties": {
+                "name": "Zhalantun Chengjisihan Airport",
+                "iata": "NZL",
+                "icao": "ZBZL",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.931458,
+                    40.739227
+                ]
+            },
+            "properties": {
+                "name": "Zhangjiakou Ningyuan Airport",
+                "iata": "ZQZ",
+                "icao": "ZBZJ",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.675003,
+                    38.801945
+                ]
+            },
+            "properties": {
+                "name": "Zhangye Ganzhou Airport",
+                "iata": "YZY",
+                "icao": "ZLZY",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.593475,
+                    21.484119
+                ]
+            },
+            "properties": {
+                "name": "Zhanjiang Wuchuan Airport",
+                "iata": "ZHA",
+                "icao": "ZGZJ",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.224442,
+                    43.088333
+                ]
+            },
+            "properties": {
+                "name": "Zhaosu Tianma Airport",
+                "iata": "ZFL",
+                "icao": "ZWZS",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.756699,
+                    27.327763
+                ]
+            },
+            "properties": {
+                "name": "Zhaotong Airport",
+                "iata": "ZAT",
+                "icao": "ZPZT",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.840797,
+                    34.519669
+                ]
+            },
+            "properties": {
+                "name": "Zhengzhou Xinzheng International Airport",
+                "iata": "CGO",
+                "icao": "ZHCC",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.152527,
+                    37.568935
+                ]
+            },
+            "properties": {
+                "name": "Zhongwei Airport",
+                "iata": "ZHY",
+                "icao": "ZLZW",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    122.362,
+                    29.9342
+                ]
+            },
+            "properties": {
+                "name": "Zhoushan Putuoshan Airport",
+                "iata": "HSN",
+                "icao": "ZSZS",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.376297,
+                    22.00666
+                ]
+            },
+            "properties": {
+                "name": "Zhuhai Jinwan Airport",
+                "iata": "ZUH",
+                "icao": "ZGSD",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.438889,
+                    27.968056
+                ]
+            },
+            "properties": {
+                "name": "Zunyi Maotai Airport",
+                "iata": "WMT",
+                "icao": "ZUMT",
+                "country": "China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.245972,
+                    27.811167
+                ]
+            },
+            "properties": {
+                "name": "Zunyi Xinzhou Airport",
+                "iata": "ZYI",
+                "icao": "ZUZY",
+                "country": "China"
+            }
+        }
+    ]
+}
